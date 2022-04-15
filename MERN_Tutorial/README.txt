@@ -111,3 +111,6 @@ npm i axios react-toastify
 npm install --save react-toastify
 yarn add react-toastify
 npm i hoist-non-react-statics
+
+git push heroku master
+git push https://git.heroku.com/firstmernappgoalsetter.git HEAD:master
